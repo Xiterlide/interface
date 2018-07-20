@@ -1,0 +1,11 @@
+C:\Users\uzivatel\source\repos\interface\interface\bin\Debug\@interface.exe.config
+C:\Users\uzivatel\source\repos\interface\interface\bin\Debug\@interface.exe
+C:\Users\uzivatel\source\repos\interface\interface\bin\Debug\@interface.pdb
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\interface.csprojResolveAssemblyReference.cache
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\interface.Properties.Resources.resources
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\@interface.exe
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\@interface.pdb
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\interface.Schnittstelle.resources
+C:\Users\uzivatel\source\repos\interface\interface\obj\Debug\interface.detail.resources
